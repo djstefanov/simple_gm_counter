@@ -9,8 +9,8 @@ unsigned long interval;
 unsigned long counts;
 unsigned long counter = 0;
 
-const char* ssid = "bulair1_dmz";
-const char* password = "730815583034";
+const char* ssid = "";
+const char* password = "";
 const char* url = "http://weather.bulair1.eu/saverad.php";
 String msg = "";
 

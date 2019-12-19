@@ -9,9 +9,9 @@ unsigned long interval;
 unsigned long counts;
 unsigned long counter = 0;
 
-const char* ssid = "";
-const char* password = "";
-const char* url = "http://weather.bulair1.eu/saverad.php";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
+const char* url = "ip_address/saverad.php";
 String msg = "";
 
 HTTPClient http;
